@@ -1,4 +1,10 @@
 # Руководство по Git
+git version - версия git
+git cnfig --global user.name "name" - указывается имя
+git config --global.email "email" - указывается электронная почта
+git init - иницилизация репозитария
 git add - добавление + Tab "название файла"
 git commit -m "название (придумать)"
 git log - посмотреть изменения
+git checkout (первые 4 знака из loga) - переход к выбранной версии изменений.
+git checkout master - возврат к последнему изменению версии
