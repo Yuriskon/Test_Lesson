@@ -4,7 +4,7 @@
 
 git version - версия git
 
-git cnfig --global user.name "name" - указывается имя
+git config --global user.name "name" - указывается имя
 
 git config --global.email "email" - указывается электронная почта
 
@@ -37,3 +37,6 @@ git branch images - создал ветку для добавления изоб
 git log --graph -команда для отображения лога изменений
 
 ## Семинар 3 Удаленный репозиторий
+
+git push - команда для синхронизации с GitHub
+
